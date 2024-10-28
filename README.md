@@ -1,4 +1,4 @@
-# Password Protection
+# Password Protection.
 
 ## Learning Goals
 
